@@ -9,14 +9,19 @@ for Spring 2018 (second semester of graduate school), I found that it was
 easier to have previous work that I needed here so that it was accessible 
 from any laptop or computer. 
 
-# Armadillo (C++)
+# Armadillo (C++) 
+* armatest.cpp - new code to test (not included in example1.cpp)
+* armatestdoc.txt - compile and run code for armatest.cpp
 * example1.cpp - code from armadillo documentation
+* lab6doc.txt - compile, how to run from terminal (documentation for lab 6)
 * lab6_nagalesacsii.cpp - code using armadillo for ACS II (spring 2018)
-* README (copy).txt - compile, how to run from terminal 
 
-# Fourier Series
-* 
+# Fourier Series (C++)
+* example2.cpp - needed code for ACS II assignment: subset of fftw3_prb.c
+* fftw3_prb.cpp - John Burkardt's test code for fourier analysis 
 
-
-# Markov Chain Monte Carlo
+# Markov Chain Monte Carlo (Python)
+* Homework 4- MCM.ipynb - markov chain monte carlo done in Python notebook
+* Homework 4- MCM.pdf - pdf version of the document above
+* hw.pdf - original assignment
 
