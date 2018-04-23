@@ -33,5 +33,8 @@ main(int argc, char** argv)
 
     // Notes:   vec is automatically a column vector and therefore core dumps
     //          when you try to print out a row of a matrix saved into a vec
+
+    cout << "b.n_rows: " << b.n_rows << endl; // output: 5 
+
   return 0;
 }
